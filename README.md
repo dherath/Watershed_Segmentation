@@ -1,2 +1,2 @@
 # Watershed-Segmentation-Brain-Images-
-Matlab files for application of watershed segmentation on Brain Images
+Matlab files for application of watershed segmentation on Brain Images. Uses the digital Imaging toolbox of Matlab. The rawdat.mat files contains the Image data used as the input. execution of watershed_GUI.m through matlab runs the graphical user interface. Note that user provided markers must be provided for a designated area for segmentation. 2D view of XY, YZ and XZ planes could be viewed.
